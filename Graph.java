@@ -11,5 +11,6 @@ public class Graph{
         this.E = E;
         this.wordNum = wordNum;
     }
+    String a = "dabaobao";
     
 }
