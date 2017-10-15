@@ -9,6 +9,7 @@ import java.lang.Character;
 public class FileModify {
     static int[][] E,D,path;
     static int mmm;
+    String damaomi;
     static String[] TxtWordArray;
     static int wordNum = 0;
     static boolean flag = true;
