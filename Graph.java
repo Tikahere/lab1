@@ -12,5 +12,5 @@ public class Graph{
         this.wordNum = wordNum;
     }
     String a = "dabaobao";
-    
+    String b = "dabao";
 }
